@@ -9,6 +9,18 @@ Hi there 👋<br>⚡Node.js & Laravel dev this side<br>🔭 MERN & Python enthus
 ![](https://streak-stats.demolab.com/?user=kunndnn&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunndnn&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<h2>☕ Support My Work</h2>
+
+<p>If you find my projects helpful, consider buying me a coffee!</p>
+
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me a Coffee"
+    height="50"
+  />
+</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kunndnn&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
