@@ -13,7 +13,7 @@ Hi there 👋<br>⚡Node.js & Laravel dev this side<br>🔭 MERN & Python enthus
 
 <p>If you find my projects helpful, consider buying me a coffee!</p>
 
-<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<a href="https://buymeacoffee.com/kunndnn">
   <img
     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
     alt="Buy Me a Coffee"
